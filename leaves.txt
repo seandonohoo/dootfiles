@@ -1,0 +1,11 @@
+htop
+mise
+neofetch
+ruff
+starship
+stow
+talosctl
+tmux
+uv
+wget
+zsh-syntax-highlighting
